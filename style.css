@@ -3,3 +3,11 @@ body.home {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.content-box {
+  background-color: #A2A886;
+  color: white;
+  padding: 30px;
+  max-width: 700px;
+  border-radius: 12px;
+}
