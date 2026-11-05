@@ -11,3 +11,8 @@ body.home {
   max-width: 700px;
   border-radius: 12px;
 }
+
+img {
+  display: block;
+  margin-top: 15px;
+}
