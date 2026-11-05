@@ -5,7 +5,7 @@ body.home {
 }
 
 .content-box {
-  background-color: #A2A886;
+  background-color: rgba(0, 0, 0, 0.4);;
   color: white;
   padding: 30px;
   max-width: 700px;
