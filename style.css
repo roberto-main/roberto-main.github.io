@@ -24,6 +24,14 @@ body.coding {
   border-radius: 12px;
 }
 
+a {
+  color:#e65ace
+}
+
+a:visited {
+  color:#570f2a
+}
+
 img {
   display: block;
   margin-top: 15px;
